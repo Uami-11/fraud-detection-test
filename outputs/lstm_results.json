@@ -1,0 +1,8 @@
+{
+  "Model": "CNN-LSTM-Attention",
+  "Precision": 0.9759,
+  "Recall": 0.9784,
+  "F1": 0.9771,
+  "ROC-AUC": 0.9992,
+  "PR-AUC": 0.9945
+}
